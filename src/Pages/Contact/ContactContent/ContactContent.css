@@ -1,0 +1,11 @@
+.contact-container{
+    margin-top: 40px;
+    text-align: center;
+}
+.contact-container p{
+    width: 60%;
+    margin:auto;
+}
+.form label{
+    text-align: left;
+}

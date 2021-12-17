@@ -1,0 +1,24 @@
+
+.bike-card img{
+    max-height: 200px;
+}
+
+.bike-card-header{
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+.bike-card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body{
+    display: flex;
+    justify-content: space-between;
+}
+.bike-card-body-middle{
+    border-left:1px solid #ddd;
+    border-right:1px solid #ddd;
+    padding: 0 20px;
+}

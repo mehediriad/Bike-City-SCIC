@@ -1,0 +1,14 @@
+.featured-bike-heading{
+    text-align: center;
+}
+.featured-bike-heading h5{
+    font-family: 'Lobster', cursive;
+    color:#c0392b;
+}
+.featured-bike-heading h1{
+    font-weight: bold;
+    font-family: arial;
+}
+.featured-bike-heading span{
+    font-size: 60px;
+}

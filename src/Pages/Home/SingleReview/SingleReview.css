@@ -1,0 +1,19 @@
+.review{
+    display: flex;
+    
+    border:2px solid gainsboro;
+    width:50%;
+    margin: 10px auto;
+    padding:5px;
+}
+.review-user{
+    border-right: 2px solid gainsboro;
+    padding-right: 6px;
+    width:200px;
+}
+.review-user img{
+    width:100px;
+}
+.review-ratting{
+    padding-left: 6px;
+}

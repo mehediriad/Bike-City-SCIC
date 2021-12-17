@@ -1,0 +1,23 @@
+#confirem-box{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    
+    display:none;
+}
+.yes-no-box{
+    background: rgba(0,0,0,0.5);
+    width:40%;
+    margin: 0 auto;
+    padding:30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.yes-no-box p{
+    color:white;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.about-container{
+    margin-top: 40px;
+    text-align: center;
+}
+.about-container p{
+    width:60%;
+    margin:auto;
+}
+.our-journey{
+    margin-top: 40px;
+    text-align: left;
+}
+.our-journey>p{
+    width: 100%;
+}
